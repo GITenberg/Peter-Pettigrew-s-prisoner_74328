@@ -1,0 +1,54 @@
+_repo: Peter-Pettigrew-s-prisoner_74328
+_version: 0.0.1
+contributor:
+  illustrators:
+  - agent_name: Milburn, Russell
+    aliases:
+    - Milburn, R.
+    - Milburn, Lt. Russel
+    gutenberg_agent_id: '57440'
+    url: http://www.gutenberg.org/2009/agents/57440
+  - agent_name: St. John, J. Allen (James Allen)
+    aliases:
+    - John, J. Allen St.
+    - John, James Allen St.
+    birthdate: 1872
+    deathdate: 1957
+    gutenberg_agent_id: '25193'
+    url: http://www.gutenberg.org/2009/agents/25193
+    wikipedia: https://en.wikipedia.org/wiki/J._Allen_St._John
+creator:
+  author:
+    agent_name: Bond, Nelson S.
+    aliases:
+    - Bond, Nelson Slade
+    - Bond, Nelson
+    - Danzell, George
+    birthdate: 1908
+    deathdate: 2006
+    gutenberg_agent_id: '34095'
+    url: http://www.gutenberg.org/2009/agents/34095
+    wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
+description: ''
+gutenberg_issued: '2024-08-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '74328'
+language: en
+pgterms:marc905: 20240520140756bond
+pgterms:marc906: '1942'
+pgterms:marc907: US
+production_note: Greg Weeks, Mary Meehan and the Online Distributed Proofreading Team
+  at http://www.pgdp.net
+publication_note: '  $aNew York, NY :$bZiff-Davis Publishing Company, $c1942.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories'
+- !lcsh 'Fantasy fiction'
+- !lcsh 'World War, 1939-1945 -- United States -- Fiction'
+- !lcc 'PS'
+- GITenberg
+title: Peter Pettigrew's prisoner
+url: http://www.gutenberg.org/ebooks/74328
