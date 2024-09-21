@@ -17,6 +17,9 @@ contributor:
     gutenberg_agent_id: '25193'
     url: http://www.gutenberg.org/2009/agents/25193
     wikipedia: https://en.wikipedia.org/wiki/J._Allen_St._John
+covers:
+- cover_type: archival
+  image_path: 74328-h/images/cover.jpg
 creator:
   author:
     agent_name: Bond, Nelson S.
@@ -30,6 +33,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/34095
     wikipedia: https://en.wikipedia.org/wiki/Nelson_S._Bond
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/74328#Peter-Pettigrew-s-prisoner
 gutenberg_issued: '2024-08-29'
 gutenberg_type: Text
 identifiers:
